@@ -1,0 +1,5 @@
+- Checkout page UI
+1. Font awesome icons fix
+3. footer responsive fix
+4. header responsive fix
+5. alert boxes
